@@ -10,7 +10,7 @@
 	<h1>Administrar Artículos</h1>
 	<table border="1" width="50%" align="center">
 		<tr>
-			<td align="center">Nuevo</a></td>			
+			<td align="center">Nuevo 1</a></td>			
 		</tr>
 		<tr>
 			<td align="center">Mostrar</a></td>
