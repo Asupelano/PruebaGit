@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Artículos Java Web JSP y Servlet 2</title>
+<title>Artículos Java Web JSP y Servlet 2-3</title>
 </head>
 <body>
 	<h1>Administrar Artículos</h1>
